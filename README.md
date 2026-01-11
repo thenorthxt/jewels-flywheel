@@ -50,13 +50,3 @@ They compound shine.
 - `apps/` dashboards and community UI
 - `packages/` reusable primitives
 
----
-
-## Disclaimer
-
-This repository is experimental and community-driven.
-Nothing here is financial advice.
-No guarantees, no promises, no expectation of profit.
-
-Use at your own risk.
-Build responsibly.
